@@ -29,3 +29,9 @@ hello this is where the dots go feel free to fork idk
 chezmoi init https://github.com/tinarskii/dotfiles
 chezmoi apply
 ```
+
+## Wallpapers
+
+i used to have plenty but because i love lucario too much i ended up abandoned other ones and use `./wallpapers/lucario-desktop-bg.jpg`. if u want to old wallpapers are still in `/wallpapers` dir, they're supposed to be a slideshow. also i disabeld the kitty background (lucario) you can use it by uncommenting the first line of `kitty.conf` file
+
+
