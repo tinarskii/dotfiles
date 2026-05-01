@@ -10,7 +10,7 @@ hello this is where the dots go feel free to fork idk
 
 ## GNOME Extensions
 
-- copyous@boerdereinar.dev
+- `copyous@boerdereinar.dev`
 - user-theme@gnome-shell-extensions.gcampax.github.com
 - blur-my-shell@aunetx
 - dash-to-dock@micxgx.gmail.com
@@ -19,6 +19,16 @@ hello this is where the dots go feel free to fork idk
 - compiz-windows-effect@hermes83.github.com
 - tilingshell@ferrarodomenico.com
 - openbar@neuromorph
+
+## Requirements
+
+- fish
+- omf
+- pokemon-colorscripts 
+- gnome-extensions
+- gnome-tweaks
+- kitty
+- starship
 
 ## Setup
 
