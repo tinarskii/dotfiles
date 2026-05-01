@@ -1,0 +1,8 @@
+[user]
+	signingkey = 43B747BCC56158E7
+	name = tinarskii
+	email = tinvv@outlook.co.th
+[commit]
+	gpgsign = true
+[core]
+	autocrlf = input
