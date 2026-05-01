@@ -11,14 +11,14 @@ hello this is where the dots go feel free to fork idk
 ## GNOME Extensions
 
 - `copyous@boerdereinar.dev`
-- user-theme@gnome-shell-extensions.gcampax.github.com
-- blur-my-shell@aunetx
-- dash-to-dock@micxgx.gmail.com
-- Vitals@CoreCoding.com
-- just-perfection-desktop@just-perfection
-- compiz-windows-effect@hermes83.github.com
-- tilingshell@ferrarodomenico.com
-- openbar@neuromorph
+- `user-theme@gnome-shell-extensions.gcampax.github.com`
+- `blur-my-shell@aunetx`
+- `dash-to-dock@micxgx.gmail.com`
+- `Vitals@CoreCoding.com`
+- `just-perfection-desktop@just-perfection`
+- `compiz-windows-effect@hermes83.github.com`
+- `tilingshell@ferrarodomenico.com`
+- `openbar@neuromorph`
 
 ## Requirements
 
