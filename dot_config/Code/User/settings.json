@@ -1,16 +1,12 @@
 {
   "window.autoDetectColorScheme": true,
   "files.autoSave": "afterDelay",
-  "github.copilot.enable": {
-    "*": false,
-    "plaintext": false,
-    "markdown": false,
-    "scminput": false
-  },
   "git.autofetch": true,
   "cmake.showConfigureWithDebuggerNotification": false,
   "git.confirmSync": false,
   "workbench.colorCustomizations": null,
   "workbench.preferredLightColorTheme": "JetBrains Dark (New UI)",
-  "workbench.iconTheme": "a-file-icon-vscode"
+  "workbench.iconTheme": "a-file-icon-vscode",
+  "explorer.confirmPasteNative": false,
+  "js/ts.updateImportsOnFileMove.enabled": "always"
 }
